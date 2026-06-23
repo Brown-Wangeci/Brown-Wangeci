@@ -22,14 +22,14 @@
  
 <div align="center">
  
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EthanBwibo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true%22 />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBwibo&layout=compact&theme=default&hide_border=true&langs_count=6%22 />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Brown-Wangeci&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brown-Wangeci&layout=compact&theme=default&hide_border=true&langs_count=6" />
  
 </div>
  
 <div align="center">
  
-![GitHub Streak](https://streak-stats.demolab.com?user=EthanBwibo&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Brown-Wangeci&theme=default&hide_border=true)
  
 </div>
  
